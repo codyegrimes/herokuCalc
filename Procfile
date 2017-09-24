@@ -1,1 +1,1 @@
-web: gunicorn runp-heroku:Calculator
+web: gunicorn calculator:app
