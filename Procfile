@@ -1,1 +1,1 @@
-web: gunicorn calculator:app
+web: gunicorn flask-calc:app
